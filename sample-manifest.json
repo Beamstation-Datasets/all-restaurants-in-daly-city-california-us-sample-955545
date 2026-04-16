@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d4e8fb2f-3315-4e11-8303-3f59e0199967",
+  "id_short": 955545,
+  "published_at": "2026-04-16T07:31:19Z",
+  "repo_name": "all-restaurants-in-daly-city-california-us-sample-955545",
+  "sample_asset_name": "beamstation_955545_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/955545/beamstation_955545_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 21,
+  "sample_sha256": "13033d2f1580a60039352c8e86d670d1241b23132159dbe660ce3b337aa42a7f",
+  "sample_size_bytes": 90773,
+  "total_records": 159
+}
