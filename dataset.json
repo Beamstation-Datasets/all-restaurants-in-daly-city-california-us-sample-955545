@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Daly City, California with a population of over 104k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Daly City, California, US",
-  "export_job_id": "d4e8fb2f-3315-4e11-8303-3f59e0199967",
+  "export_job_id": "eb66b6e8-ba7a-43d3-b518-626269e480eb",
   "github_org": "Beamstation-Datasets",
   "id_short": 955545,
   "location_name": "Daly City",
   "location_type": "city",
   "repo_name": "all-restaurants-in-daly-city-california-us-sample-955545",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/955545/beamstation_955545_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 13.21,
+  "sample_pct": 9.95,
   "sample_records": 21,
   "sample_sha256": "13033d2f1580a60039352c8e86d670d1241b23132159dbe660ce3b337aa42a7f",
   "sample_size_bytes": 90773,
-  "total_records": 159,
-  "updated_at": "2026-03-31T12:55:32.845141+00:00"
+  "total_records": 211,
+  "updated_at": "2026-04-14T13:07:24.203751+00:00"
 }
